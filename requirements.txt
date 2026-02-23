@@ -1,0 +1,7 @@
+streamlit
+speechrecognition
+sumy
+textblob
+nltk
+regex
+pyaudio
